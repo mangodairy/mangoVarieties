@@ -1,0 +1,14 @@
+# main links links
+main:
+  #- title: "About"
+  #  url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "Posts"
+  #  url: /year-archive/
+  #- title: "Collections"
+  #  url: /collection-archive/
+  - title: "Home"
+    url: http://127.0.0.1:4000/
+  - title: "മാവിനങ്ങൾ"
+    url: /portfolio/
+  - title: "Recipes"
+    url: /recipes/
